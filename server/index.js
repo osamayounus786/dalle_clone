@@ -27,3 +27,5 @@ const startServer = async () =>{
 }
 
 startServer();
+
+// MONGODB_URL = "mongodb+srv://osamayounus:proDev786@cluster0.fcyton8.mongodb.net/?retryWrites=true&w=majority"
